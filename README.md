@@ -26,6 +26,8 @@
 </ul>  
 
 <h3>Пример проекта </h3>
-![image](https://user-images.githubusercontent.com/74569011/172455812-0c7b13c3-f56f-45a3-9fe3-dbafa7af6e7f.png)
+<h4>Слайд-1</h4>
+![image](https://user-images.githubusercontent.com/74569011/172458920-489fe460-1dd4-4653-915f-41abb098dc0d.png)
 
+<h4>Слайд-2</h4>
 ![image](https://user-images.githubusercontent.com/74569011/172456017-9a3ff191-25c5-4d6e-a0e4-ad8e1c68db6c.png)
