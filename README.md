@@ -28,13 +28,10 @@
 <h3>Пример проекта </h3>
 <h4>Слайд-1</h4>
 <img src="https://user-images.githubusercontent.com/74569011/172458920-489fe460-1dd4-4653-915f-41abb098dc0d.png" alt="image" style="max-width: 100%;">
-
 <h4>Слайд-2</h4>
-
-![image](https://user-images.githubusercontent.com/74569011/172482981-696211da-7a02-43f7-b563-bf7ad1f0d17a.png)
 <img src="https://user-images.githubusercontent.com/74569011/172482981-696211da-7a02-43f7-b563-bf7ad1f0d17a.png" alt="image" style="max-width: 100%;">
 <h4>Слайд-3</h4>
-![image](https://user-images.githubusercontent.com/74569011/172483449-de8cb0bf-ba72-4212-bd7b-91b41aeb64c2.png)
-<img src="(https://user-images.githubusercontent.com/74569011/172483449-de8cb0bf-ba72-4212-bd7b-91b41aeb64c2.png" alt="image" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/74569011/172484141-1c1770e3-9c21-4ecc-b3d1-d5c612a623e8.png" alt="image" style="max-width: 100%;">
+
 
 
