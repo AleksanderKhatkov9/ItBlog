@@ -1,0 +1,99 @@
+
+body {
+    background-color: #f0f0f0;
+
+    /*background-image: url("https://dwstroy.ru/lessons/les3373/demo//img/bg.png");*/
+}
+
+#title {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#description {
+    text-indent: 30px;
+    text-align: justify;
+    font-family: verdana;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#date {
+    text-indent: 30px;
+    color: yellow;
+}
+
+#button {
+    text-align: left;
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
+
+#content {
+    text-indent: 30px;
+    text-align: justify;
+    font-family: verdana;
+    padding-left: 20px;
+    padding-right: 20px;
+    /*margin-top: 20px;*/
+    font-size: 20px;
+}
+
+
+#date {
+    text-indent: 30px;
+    font-size: 20px;
+    color: #1a1e21;
+}
+
+#comments {
+    text-indent: 30px;
+    text-align: justify;
+    font-family: verdana;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#title-comments {
+    text-align: center;
+    padding: 20px;
+}
+
+#submit {
+    margin-left: 10px;
+}
+
+#del_news {
+    padding: 20px;
+}
+
+#comments-date {
+    text-indent: 30px;
+    font-size: 20px;
+    color: #1a1e21;
+}
+
+
+
+a:link {
+    color: #265301;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1a1e21;
+}
+
+
+a:active {
+    /*background: #265301;*/
+    color: #2ca8c6;
+}
+
+a:hover {
+    color: #548eaa; /* Цвет ссылки */
+}
+

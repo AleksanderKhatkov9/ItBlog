@@ -1,0 +1,129 @@
+body {
+    background-color: #f0f0f0;
+    /*background-image: url("https://dwstroy.ru/lessons/les3373/demo//img/bg.png");*/
+}
+
+#title-article {
+    margin-top: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#description-article {
+    text-indent: 30px;
+    text-align: justify;
+    font-family: verdana;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#content-article {
+    text-indent: 30px;
+    text-align: justify;
+    font-family: verdana;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#title-comments {
+    text-align: center;
+    padding: 20px;
+}
+
+#submit {
+    margin-left: 10px;
+}
+
+#del_news {
+    padding: 20px;
+}
+
+/*#comments-date {*/
+/*    text-indent: 30px;*/
+/*    font-size: 20px;*/
+/*    color: #1a1e21;*/
+/*}*/
+
+#img {
+    margin-left: 20px;
+    padding-left: 5px;
+    padding-right: 50px;
+}
+
+#date-article {
+    text-indent: 30px;
+    font-size: 20px;
+    color: #1a1e21;
+}
+
+#content-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#date-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#button-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#commit-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#review-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#review-date {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#text {
+    color: #1a1e21;
+    font-weight: bold;
+}
+
+#description-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+a:link {
+    color: #265301;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1a1e21;
+}
+
+
+a:active {
+    /*background: #265301;*/
+    color: #2ca8c6;
+}
+
+a:hover {
+    color: #548eaa; /* Цвет ссылки */
+}
+#date{
+    /*text-indent: 30px;*/
+    /*margin-left: 30px;*/
+    font-size: 20px;
+    color: #1a1e21;
+}

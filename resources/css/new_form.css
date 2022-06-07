@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0;
+    /*background-image: url("https://dwstroy.ru/lessons/les3373/demo//img/bg.png");*/
+}
+
+
+#button {
+    text-align: left;
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
+
+.form-div {
+    padding: 100px;
+}
+
+#text {
+    color: #1a1e21;
+    font-weight: bold
+}
+
+#content-style{
+    padding-left: 20px;
+    padding-right: 20px;
+}
