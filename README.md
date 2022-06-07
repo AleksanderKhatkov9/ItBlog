@@ -33,3 +33,5 @@
 ![image](https://user-images.githubusercontent.com/74569011/172456017-9a3ff191-25c5-4d6e-a0e4-ad8e1c68db6c.png)
 <h4>Слайд-3</h4>
 ![image](https://user-images.githubusercontent.com/74569011/172460051-9672e297-1dca-41b6-902c-4f7a848bc5f0.png)
+
+<img src="https://user-images.githubusercontent.com/74569011/172458920-489fe460-1dd4-4653-915f-41abb098dc0d.png" alt="image" style="max-width: 100%;">
