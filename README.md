@@ -11,8 +11,6 @@
   <li>Разделение ролей</li>
 </ol>  
 
-
-
 <h2>Пример</h2>https://habr.com/ru/news/t/670032/
 
 <h3>Технологии:</h3>
@@ -31,3 +29,5 @@
 
 <h4>Слайд-2</h4>
 ![image](https://user-images.githubusercontent.com/74569011/172456017-9a3ff191-25c5-4d6e-a0e4-ad8e1c68db6c.png)
+<h4>Слайд-3</h4>
+![image](https://user-images.githubusercontent.com/74569011/172460051-9672e297-1dca-41b6-902c-4f7a848bc5f0.png)
